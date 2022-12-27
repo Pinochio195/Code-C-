@@ -1,4 +1,6 @@
 ﻿  ProjectForFITHOU.cpp
 D:\Learn Unity\Project\Code-C-\ProjectForFITHOU\ProjectForFITHOU.cpp(12,16): warning C4244: 'initializing': conversion from 'long double' to '__int64', possible loss of data
-D:\Learn Unity\Project\Code-C-\ProjectForFITHOU\ProjectForFITHOU.cpp(65,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Learn Unity\Project\Code-C-\ProjectForFITHOU\ProjectForFITHOU.cpp(81,13): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\Learn Unity\Project\Code-C-\ProjectForFITHOU\ProjectForFITHOU.cpp(242,24): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\Learn Unity\Project\Code-C-\ProjectForFITHOU\ProjectForFITHOU.cpp(251,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
   ProjectForFITHOU.vcxproj -> D:\Learn Unity\Project\Code-C-\ProjectForFITHOU\x64\Debug\ProjectForFITHOU.exe
